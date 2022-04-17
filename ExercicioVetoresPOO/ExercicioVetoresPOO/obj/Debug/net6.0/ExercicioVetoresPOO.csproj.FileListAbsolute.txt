@@ -1,0 +1,15 @@
+C:\Users\caio.appa\Desktop\UDEMY\ws-Csharp\ExercicioVetoresPOO\ExercicioVetoresPOO\bin\Debug\net6.0\ExercicioVetoresPOO.exe
+C:\Users\caio.appa\Desktop\UDEMY\ws-Csharp\ExercicioVetoresPOO\ExercicioVetoresPOO\bin\Debug\net6.0\ExercicioVetoresPOO.deps.json
+C:\Users\caio.appa\Desktop\UDEMY\ws-Csharp\ExercicioVetoresPOO\ExercicioVetoresPOO\bin\Debug\net6.0\ExercicioVetoresPOO.runtimeconfig.json
+C:\Users\caio.appa\Desktop\UDEMY\ws-Csharp\ExercicioVetoresPOO\ExercicioVetoresPOO\bin\Debug\net6.0\ExercicioVetoresPOO.dll
+C:\Users\caio.appa\Desktop\UDEMY\ws-Csharp\ExercicioVetoresPOO\ExercicioVetoresPOO\bin\Debug\net6.0\ref\ExercicioVetoresPOO.dll
+C:\Users\caio.appa\Desktop\UDEMY\ws-Csharp\ExercicioVetoresPOO\ExercicioVetoresPOO\bin\Debug\net6.0\ExercicioVetoresPOO.pdb
+C:\Users\caio.appa\Desktop\UDEMY\ws-Csharp\ExercicioVetoresPOO\ExercicioVetoresPOO\obj\Debug\net6.0\ExercicioVetoresPOO.csproj.AssemblyReference.cache
+C:\Users\caio.appa\Desktop\UDEMY\ws-Csharp\ExercicioVetoresPOO\ExercicioVetoresPOO\obj\Debug\net6.0\ExercicioVetoresPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio.appa\Desktop\UDEMY\ws-Csharp\ExercicioVetoresPOO\ExercicioVetoresPOO\obj\Debug\net6.0\ExercicioVetoresPOO.AssemblyInfoInputs.cache
+C:\Users\caio.appa\Desktop\UDEMY\ws-Csharp\ExercicioVetoresPOO\ExercicioVetoresPOO\obj\Debug\net6.0\ExercicioVetoresPOO.AssemblyInfo.cs
+C:\Users\caio.appa\Desktop\UDEMY\ws-Csharp\ExercicioVetoresPOO\ExercicioVetoresPOO\obj\Debug\net6.0\ExercicioVetoresPOO.csproj.CoreCompileInputs.cache
+C:\Users\caio.appa\Desktop\UDEMY\ws-Csharp\ExercicioVetoresPOO\ExercicioVetoresPOO\obj\Debug\net6.0\ExercicioVetoresPOO.dll
+C:\Users\caio.appa\Desktop\UDEMY\ws-Csharp\ExercicioVetoresPOO\ExercicioVetoresPOO\obj\Debug\net6.0\ref\ExercicioVetoresPOO.dll
+C:\Users\caio.appa\Desktop\UDEMY\ws-Csharp\ExercicioVetoresPOO\ExercicioVetoresPOO\obj\Debug\net6.0\ExercicioVetoresPOO.pdb
+C:\Users\caio.appa\Desktop\UDEMY\ws-Csharp\ExercicioVetoresPOO\ExercicioVetoresPOO\obj\Debug\net6.0\ExercicioVetoresPOO.genruntimeconfig.cache
